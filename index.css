@@ -1,0 +1,62 @@
+.div_1{
+    text-align: start;
+}
+.div_2{
+    text-align: start;
+    margin-left: 20px;
+}
+.div_3{
+    text-align: start;
+    margin-left: 20px;
+}
+
+.icons{
+display: flex;
+justify-content: space-between;
+font-size: 50px;
+}
+
+li:hover {
+transform: scale(1.1);
+color: blue;
+}
+.cl_1:hover {
+transform: scale(0.9);
+color: darkred;
+
+}
+h2:hover {
+transform: scale(1.1);
+color:orangered;
+
+}
+h3:hover {
+transform: scale(1.1);
+color:rgb(229, 250, 135);
+}
+h4:hover {
+transform: scale(1.1);
+color:orangered;
+}
+h5:hover {
+transform: scale(1.1);
+color: navy;
+}
+h6:hover {
+font-size: x-large;
+transform: scale(1.1);
+color:green;
+}
+i:hover {
+transform: scale(1.1);
+color:  green;
+}
+img:hover {
+transform: scale(0.9);
+}
+#id01{
+background-color: rgb(255, 123, 0);
+}
+#id02{
+background-color: rgb(229, 250, 135);
+}
