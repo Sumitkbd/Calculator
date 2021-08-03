@@ -24,7 +24,7 @@
     alert("Password minimum length is 6");  
     }  
     else{  
-    window.location="file:///C:/my%20html%20file/Login%20CV/cvfile/index.html";  
+    window.location="https://sumitkbd.github.io/Responsive-CV/";  
     }  
     }  
     
