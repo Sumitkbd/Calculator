@@ -24,7 +24,7 @@
     alert("Password minimum length is 6");  
     }  
     else{  
-    window.location="index.html";  
+    window.location="www.youtube.com";  
     }  
     }  
     
