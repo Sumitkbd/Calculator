@@ -24,7 +24,7 @@
     alert("Password minimum length is 6");  
     }  
     else{  
-    window.location="www.youtube.com";  
+    window.location="https://sumitkbd.github.io/Login-for-responsive-CV/";  
     }  
     }  
     
